@@ -8,7 +8,7 @@
 * 敘述統計
   * [各種常用圖形]
   * [統計量](https://mirdex.github.io/Statistics/統計量.slides.html)
-  * [常態分布]
+  * [常態分布]
 * 推論統計
 
 ### 學習資源
