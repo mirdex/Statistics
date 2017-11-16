@@ -9,6 +9,6 @@
   * [常用圖表](https://mirdex.github.io/Statistics/常用圖表.slides.html)
   * [集中趨勢與分散趨勢的統計量](https://mirdex.github.io/Statistics/集中趨勢與分散趨勢的統計量.slides.html)
   * [經驗法則](https://mirdex.github.io/Statistics/經驗法則.slides.html)
-* 推論統計
+* **推論統計**
 
 ### 學習資源
