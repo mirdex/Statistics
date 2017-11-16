@@ -7,7 +7,7 @@
 * [統計學綱要](https://mirdex.github.io/Statistics/統計學綱要.slides.html)
 * 敘述統計
   * [各種常用圖形]
-  * [集中趨勢與分散趨勢的統計量](https://mirdex.github.io/Statistics/https://mirdex.github.io/Statistics/集中趨勢與分散趨勢的統計量.slides.html)
+  * [集中趨勢與分散趨勢的統計量](https://mirdex.github.io/Statistics/集中趨勢與分散趨勢的統計量.slides.html)
   * [常態分布]
 * 推論統計
 
