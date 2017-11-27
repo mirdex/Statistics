@@ -25,5 +25,5 @@
 - **機率分配**
   - [基礎機率](https://mirdex.github.io/Statistics/基礎機率.slides.html)
   - [離散隨機變數]()
-   - [二項機率分配]()
+    - [二項機率分配]()
 * **推論統計**
