@@ -11,6 +11,7 @@
   * [經驗法則](https://mirdex.github.io/Statistics/經驗法則.slides.html)
 * **機率分配**
   * [基礎機率](https://mirdex.github.io/Statistics/基礎機率.slides.html)
+  * [離散隨機變數]()
 * **推論統計**
 
 ### 學習資源
