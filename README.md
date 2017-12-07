@@ -15,6 +15,7 @@
       - [二項機率分配](https://mirdex.github.io/Statistics/二項機率分配.slides.html)
       - [卜瓦松機率分配](https://mirdex.github.io/Statistics/卜瓦松機率分配.slides.html)
   - [連續隨機變數](https://mirdex.github.io/Statistics/連續型隨機變數.slides.html)
+      - [常態分布](https://mirdex.github.io/Statistics/常態分布.slides.html)
 - **推論統計**
 
 ### 學習資源
